@@ -16,7 +16,7 @@ This project tackles the modern challenge of online health retail by connecting 
 
 ## Live Preview
 **Experience the live application here:** [EcoMeds Live Deployment](https://ecomeds-nine.vercel.app)  
-*(Designed and engineered by Rajat Yogesh Murhe)*
+*(Designed and engineered by Rajat Yogesh Murhe & Rishika Deshmukh)*
 
 ---
 
