@@ -48,14 +48,6 @@ Clear, detailed transfer vouchers generated instantly upon successful checkout.
 
 ---
 
-## Table of Contents
-1. [Key Features](#-key-features)
-2. [Tech Stack & Dependencies](#-tech-stack--dependencies)
-3. [Local Setup & Installation](#-local-setup--installation)
-4. [Deployment](#-deployment)
-
----
-
 ## Key Features
 * **Instant Page Loads:** Bundled with Vite and built on React 18 for sub-second rendering and rapid interactions.
 * **Responsive UI/UX:** Styled comprehensively with Tailwind CSS and `tailwind-merge` for adaptive, conflict-free layouts across all device sizes.
